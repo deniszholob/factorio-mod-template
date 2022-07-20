@@ -1,0 +1,14 @@
+{
+  "name": "ddd-MOD_ID",
+  "version": "0.0.1",
+  "title": "DDD MOD_TITLE",
+  "author": "DDDGamer",
+  "contact": "https://github.com/deniszholob/factorio-mod-MOD_ID/issues",
+  "homepage": "https://discord.gg/PkyzXzz",
+  "description": "MOD_DESCRIPTION",
+  "factorio_version": "1.1",
+  "dependencies": [
+    "base >= 1.1",
+    "stdlib"
+  ]
+}
